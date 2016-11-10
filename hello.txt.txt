@@ -51,3 +51,6 @@ Q2: 	var strength ='50,000 pounds';
 Q3:	var morningAlarm = '6:30AM';
 	var morningAlarm = '8:00AM';
 	console.log('Morning alarm is set to: ' ,morningAlarm);
+
+Q4: 	var favoriteAnimal = 'lion';
+	console.log('My favourite animal: '+ favoriteAnimal+'.');
